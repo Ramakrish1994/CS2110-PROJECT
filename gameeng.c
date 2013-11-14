@@ -34,7 +34,7 @@
 #define KW  "\x1B[37m"
 
 /*
- * Function to update distance matrix for the maze recursively
+ * Function to update distance matrix(for final reward) for the maze recursively
  * @param maze
  * @param distance matrix
  * @param the queue
